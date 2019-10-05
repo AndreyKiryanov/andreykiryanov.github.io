@@ -1,0 +1,59 @@
+#row_one {
+
+	height: 500px;
+	background-color: #FFA928;
+	padding-top: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+#row_two {
+	height: 500px;
+	background-color: #1B1B1B;
+	
+}
+
+#row_tree {
+	height: 500px;
+	background-color: #FFA928;
+	
+}
+
+#h1_home {
+	color: #1B1B1B;
+	text-align: center;
+	font-weight: bold;
+	font-size: 40px;
+
+}
+
+#h3_home {
+	text-align: center;
+	font-weight: lighter;
+	font-size: 18px;
+
+}
+
+#button_one {
+    height: 20px; 
+    width: 100px; 
+    margin: -20px -50px; 
+    position: relative;
+    top: 100px; 
+    left: 46.5%;
+	color: #FFA928;
+	font-size: 17px;
+	font-weight: bold;
+	text-decoration: none;
+	user-select: none;
+	background:#1B1B1B;
+	padding: .7em 1.5em;
+	outline: none;
+	
+}	
+
+
+
+
+
+
